@@ -4,7 +4,7 @@ $:.unshift File.expand_path('../lib', __FILE__)
 require 'memoize/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'memoize'
+  s.name          = 'memoyze'
   s.version       = Memoize::VERSION
   s.authors       = ['Sven Fuchs']
   s.email         = ['me@svenfuchs.com']
